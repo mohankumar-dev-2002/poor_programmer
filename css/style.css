@@ -1,0 +1,147 @@
+body {
+  background-color: #F4F9F9;
+  margin: 0;
+}
+
+.top {
+  background-color: #E4FBFF;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  color: #219F94;
+  font-weight: bold;
+  font-size: 5.25rem;
+}
+
+.dev {
+  font-size: 3rem;
+  font-family: 'Kaushan Script', cursive;
+}
+
+.firstCloud {
+  height: 11.875rem;
+  width: 12.5rem;
+  position: relative;
+  top: 0.625rem;
+  left: 25rem;
+}
+
+.mountain {
+  height: 85%;
+  width: 100%;
+  display: inline-block;
+}
+
+.thirdCloud {
+  height: 13.75rem;
+  width: 16.25rem;
+  position: absolute;
+  top: 3.125rem;
+  right: 56.25rem;
+}
+
+.avatar {
+  height: 9.375rem;
+  width: 9.375rem;
+  margin-left: 10%;
+}
+
+.seprator {
+  border-color: #9D9D9D;
+  border-top-style: dotted;
+  border-top-width: 0.625rem;
+  margin-top: 1.875rem;
+  margin-left: 45%;
+  margin-right: 45%
+}
+
+.middle1 {
+  display: inline-block;
+  font-family: 'Supermercado One', cursive;
+  margin-left: 5%;
+  font-size: 2.5rem;
+}
+
+.devloper {
+  position: absolute;
+  margin-left: 80%;
+  margin-top: 4%;
+  height: 10rem;
+  width: 10rem;
+}
+
+.middle2 {
+  display: inline-block;
+  font-family: 'Supermercado One', cursive;
+  margin-left: 30%;
+  margin-top: 5%;
+  font-size: 2.5rem;
+}
+
+.tutor {
+  position: absolute;
+  height: 10rem;
+  width: 10rem;
+  margin-top: 4%;
+  margin-left: 10%;
+}
+
+.middle3 {
+  display: inline-block;
+  font-family: 'Supermercado One', cursive;
+  margin-top: 5%;
+  margin-left: 25%;
+  font-size: 2.5rem;
+}
+
+.bottom {
+  padding-top: 0.625rem;
+  background-color: #E4FBFF;
+}
+
+.btn {
+  display: block;
+  font-family: cursive;
+  padding-left: 45%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.footer-link1 {
+  display: inline-block;
+  position: absolute;
+  font-family: 'Supermercado One', cursive;
+  font-size: 1.8rem;
+}
+
+.footer-link2 {
+  display: inline-block;
+  font-family: 'Supermercado One', cursive;
+  font-size: 1.8rem;
+  padding-bottom: 5%;
+}
+
+.hr {
+  margin-top: 12.5rem;
+  margin-bottom: 12.5rem;
+}
+
+.img1 {
+  display: inline-block;
+  height: 1.563rem;
+  width: 1.563rem;
+  padding-left: 32%;
+  border-radius: 50%;
+}
+
+.img2 {
+  display: inline-block;
+  height: 1.563rem;
+  width: 1.563rem;
+  padding-left: 26%;
+  border-radius: 50%;
+}
