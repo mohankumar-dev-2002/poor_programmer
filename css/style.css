@@ -12,20 +12,20 @@ h1 {
   font-family: 'Sacramento', cursive;
   color: #219F94;
   font-weight: bold;
-  font-size: 5.25rem;
+  font-size: 5.25em;
 }
 
 .dev {
-  font-size: 3rem;
+  font-size: 3em;
   font-family: 'Kaushan Script', cursive;
 }
 
 .firstCloud {
-  height: 11.875rem;
-  width: 12.5rem;
+  height: 11.875em;
+  width: 12.5em;
   position: relative;
-  top: 0.625rem;
-  left: 25rem;
+  top: 0.625em;
+  left: 25em;
 }
 
 .mountain {
@@ -35,24 +35,24 @@ h1 {
 }
 
 .thirdCloud {
-  height: 13.75rem;
-  width: 16.25rem;
+  height: 13.75em;
+  width: 16.25em;
   position: absolute;
-  top: 3.125rem;
-  right: 56.25rem;
+  top: 3.125em;
+  right: 56.25em;
 }
 
 .avatar {
-  height: 9.375rem;
-  width: 9.375rem;
+  height: 9.375em;
+  width: 9.375em;
   margin-left: 10%;
 }
 
 .seprator {
   border-color: #9D9D9D;
   border-top-style: dotted;
-  border-top-width: 0.625rem;
-  margin-top: 1.875rem;
+  border-top-width: 0.62em;
+  margin-top: 1.875em;
   margin-left: 45%;
   margin-right: 45%
 }
@@ -68,8 +68,8 @@ h1 {
   position: absolute;
   margin-left: 80%;
   margin-top: 4%;
-  height: 10rem;
-  width: 10rem;
+  height: 10em;
+  width: 10em;
 }
 
 .middle2 {
@@ -77,13 +77,13 @@ h1 {
   font-family: 'Supermercado One', cursive;
   margin-left: 30%;
   margin-top: 5%;
-  font-size: 2.5rem;
+  font-size: 2.5em;
 }
 
 .tutor {
   position: absolute;
-  height: 10rem;
-  width: 10rem;
+  height: 10em;
+  width: 10em;
   margin-top: 4%;
   margin-left: 10%;
 }
@@ -93,11 +93,11 @@ h1 {
   font-family: 'Supermercado One', cursive;
   margin-top: 5%;
   margin-left: 25%;
-  font-size: 2.5rem;
+  font-size: 2.em;
 }
 
 .bottom {
-  padding-top: 0.625rem;
+  padding-top: 0.625em;
   background-color: #E4FBFF;
 }
 
@@ -107,7 +107,7 @@ h1 {
   padding-left: 45%;
   padding-top: 5%;
   padding-bottom: 5%;
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-weight: bold;
 }
 
@@ -115,33 +115,33 @@ h1 {
   display: inline-block;
   position: absolute;
   font-family: 'Supermercado One', cursive;
-  font-size: 1.8rem;
+  font-size: 1.8em;
 }
 
 .footer-link2 {
   display: inline-block;
   font-family: 'Supermercado One', cursive;
-  font-size: 1.8rem;
+  font-size: 1.8em;
   padding-bottom: 5%;
 }
 
 .hr {
-  margin-top: 12.5rem;
-  margin-bottom: 12.5rem;
+  margin-top: 12.5em;
+  margin-bottom: 12.5em;
 }
 
 .img1 {
   display: inline-block;
-  height: 1.563rem;
-  width: 1.563rem;
+  height: 1.563em;
+  width: 1.563em;
   padding-left: 32%;
   border-radius: 50%;
 }
 
 .img2 {
   display: inline-block;
-  height: 1.563rem;
-  width: 1.563rem;
+  height: 1.563em;
+  width: 1.563em;
   padding-left: 26%;
   border-radius: 50%;
 }
